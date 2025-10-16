@@ -15,10 +15,10 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 | [Site Technical Corporation Ltd](https://technicalcorporation.com.br) | Aumento da credibilidade da empresa | PHP, MySQL, jQuery, CSS3, HTML5, JavaScript |
 
 <p align="left">
-  <a href="https://github.com/marcosiqueira?tab=repositories&sort=stargazers" style="text-decoration: none;">
+  <a href="https://github.com/marcosiqueira?tab=repositories&sort=stargazers">
     <img alt="Total de Estrelas" title="Total de estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/marcosiqueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
   </a>
-  <a href="https://github.com/marcosiqueira?tab=followers" style="text-decoration: none;">
+  <a href="https://github.com/marcosiqueira?tab=followers">
     <img alt="Seguidores" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/marcosiqueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
 </p>
