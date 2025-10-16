@@ -185,3 +185,12 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
   height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosiqueira&custom_title=Tecnologias&langs_count=6&layout=compact" 
 />
+
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| Site Technical Corporation Ltd | Aumento da credibilidade da empresa | PHP, MySQL, jQuery, CSS3, HTML5, JavaScript |
