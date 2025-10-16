@@ -7,7 +7,7 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
   <a href="https://github.com/marcosiqueira?tab=repositories&sort=stargazers">
     <img alt="Total de Estrelas"
          title="Total de estrelas no Github"
-         src="https://custom-icon-badges.demolab.com/github/stars/marcosiqueira?color=55960c&style=for-the-badge&labelColor=488207&logo=estrelas"
+         src="https://custom-icon-badges.demolab.com/github/stars/marcosiqueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
     />
   </a>
 
