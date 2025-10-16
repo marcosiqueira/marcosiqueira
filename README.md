@@ -63,4 +63,4 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 ### Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosiqueira&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosiqueira&show_icons=true&theme=tokyonight&include_all_commits=true)
