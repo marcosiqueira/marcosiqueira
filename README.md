@@ -96,6 +96,15 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 <img
   align="left"
+  alt="jQuery"
+  title="jQuery"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" 
+/>
+
+<img
+  align="left"
   alt="PowerShell"
   title="PowerShell"
   width="30px"
