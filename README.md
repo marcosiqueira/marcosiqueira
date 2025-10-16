@@ -78,6 +78,15 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 <img
   align="left"
+  alt="JSON"
+  title="JSON"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
+/>
+
+<img
+  align="left"
   alt="PHPStorm"
   title="Full Stack PHP Developer"
   width="30px"
