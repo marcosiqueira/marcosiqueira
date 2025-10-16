@@ -16,11 +16,19 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 <p align="left">
   <a href="https://github.com/marcosiqueira?tab=repositories&sort=stargazers">
-    <img alt="Total de Estrelas" title="Total de estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/marcosiqueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
-  </a>
-  <a href="https://github.com/marcosiqueira?tab=followers">
-    <img alt="Seguidores" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/marcosiqueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-  </a>
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/marcosiqueira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/marcosiqueira?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/marcosiqueira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -180,7 +188,7 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
   alt="Github Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=marcosiqueira&show_icons=true&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats.vercel.app/api?username=marcosiqueira&theme=default&show_icons=true&hide_border=false&count_private=true&locale=pt-br" 
 />
 
 <img
