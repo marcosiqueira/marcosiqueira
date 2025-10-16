@@ -3,6 +3,13 @@
 
 Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.com.br), onde atuo implementando soluções completas de infraestrutura, redes e desenvolvimento de software. Tenho ampla experiência como Full Stack PHP Developer, trabalhando com PHP, JavaScript, jQuery, HTML e CSS3. Além disso, possuo sólido conhecimento em sistemas Linux, incluindo Ubuntu, Debian, Fedora, CentOS e Red Hat, e em redes estruturadas, com experiência avançada em MikroTik e Cisco. Minha atuação combina habilidades técnicas e visão estratégica, permitindo criar e gerenciar soluções que abrangem desde o desenvolvimento de aplicações até a infraestrutura necessária para seu pleno funcionamento.
 
+## 🚀 Projetos em Destaque
+<br style="clear: both" />
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| Site Technical Corporation Ltd | Aumento da credibilidade da empresa | PHP, MySQL, jQuery, CSS3, HTML5, JavaScript |
+
 <p align="left">
   <a href="https://github.com/marcosiqueira?tab=repositories&sort=stargazers">
     <img alt="Total de Estrelas"
@@ -18,6 +25,8 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
     />
   </a>
 </p>
+
+<br style="clear: both" />
 
 ---
 
@@ -185,12 +194,3 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
   height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosiqueira&custom_title=Tecnologias&langs_count=6&layout=compact" 
 />
-
-
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| Site Technical Corporation Ltd | Aumento da credibilidade da empresa | PHP, MySQL, jQuery, CSS3, HTML5, JavaScript |
