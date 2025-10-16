@@ -1,4 +1,4 @@
-#  [Marco C. Siqueira](https://linkedin.com/in/marcosiq)
+# 🚀 [Marco C. Siqueira](https://linkedin.com/in/marcosiq)
 **`Linux Network Engineer and Full Stack PHP Developer`**
 
 Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.com.br), onde atuo implementando soluções completas de infraestrutura, redes e desenvolvimento de software. Tenho ampla experiência como Full Stack PHP Developer, trabalhando com PHP, JavaScript, jQuery, HTML e CSS3. Além disso, possuo sólido conhecimento em sistemas Linux, incluindo Ubuntu, Debian, Fedora, CentOS e Red Hat, e em redes estruturadas, com experiência avançada em MikroTik e Cisco. Minha atuação combina habilidades técnicas e visão estratégica, permitindo criar e gerenciar soluções que abrangem desde o desenvolvimento de aplicações até a infraestrutura necessária para seu pleno funcionamento.
@@ -21,7 +21,7 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 ---
 
-## Linguagens e Tecnologias
+## 🧰 Linguagens e Tecnologias
 <img
   align="left"
   alt="Linux"
@@ -169,7 +169,7 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 <br/>
 <br/>
 
-### Estatísticas
+### 📊 Estatísticas
 
 <img
   align="left"
