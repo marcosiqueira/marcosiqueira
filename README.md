@@ -42,6 +42,15 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 <img
   align="left"
+  alt="CloudFlare"
+  title="CloudFlare"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" 
+/>
+
+<img
+  align="left"
   alt="PHP"
   title="Full Stack PHP Developer"
   width="30px"
