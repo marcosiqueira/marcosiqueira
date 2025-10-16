@@ -76,5 +76,5 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
   alt="Github Stats"
   height="200px"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosiqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosiqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&include_all_commits=true" 
 />
