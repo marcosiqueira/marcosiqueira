@@ -42,8 +42,8 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 <img
   align="left"
-  alt="Red Hat"
-  title="Red Hat Enterprise Linux"
+  alt="PHP"
+  title="Full Stack PHP Developer"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
@@ -51,8 +51,8 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 <img
   align="left"
-  alt="Red Hat"
-  title="Red Hat Enterprise Linux"
+  alt="PHPStorm"
+  title="Full Stack PHP Developer"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" 
