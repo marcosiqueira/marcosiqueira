@@ -48,4 +48,13 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+
+<img
+  align="left"
+  alt="Red Hat"
+  title="Red Hat Enterprise Linux"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" 
+/>
           
