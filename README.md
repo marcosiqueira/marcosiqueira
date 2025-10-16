@@ -79,4 +79,4 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosiqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosiqueira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosiqueira)](https://github.com/anuraghazra/github-readme-stats)
