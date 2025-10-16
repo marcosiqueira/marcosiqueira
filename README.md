@@ -57,4 +57,10 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" 
 />
-          
+
+<br/>
+<br/>
+
+### Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosiqueira&show_icons=true)
