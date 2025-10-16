@@ -69,8 +69,8 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="JavaScript"
+  title="JavaScript"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -78,11 +78,29 @@ Sou proprietário da [Technical Corporation Ltda](https://technicalcorporation.c
 
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="PowerShell"
+  title="PowerShell"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
+/>
+
+<img
+  align="left"
+  alt="Apache"
+  title="Apache"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+/>
+
+<img
+  align="left"
+  alt="NGINX"
+  title="NGINX"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
 />
 
 <br/>
